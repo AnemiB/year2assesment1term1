@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: rgb(10, 27, 42);
+}
+
+.mysidenav {
+  text-align: center;
+  background-color: rgb(9, 162, 251) !important;
+  font-weight: 500;
+  height: 1400px;
+}
+
+.page {
+  font-size: 5rem;
+  text-align: center;
+}
